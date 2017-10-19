@@ -26,26 +26,22 @@ div {
 }
 
 .btn-primary {
-  display: inline-block;
   background-color: #333;
   color: #fff;
 }
 
 .btn-subtle {
-  display: inline-block;
   background-color: #ccc;
   color: #fff;
 }
 
 .btn-ghost {
-  display: inline-block;
   background-color: #fff;
   color: #000;
   border: 3px solid #000;
 }
 
 .btn-warning {
-  display: inline-block;
   background-color: #f33;
   color: #fff;
 }
